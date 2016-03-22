@@ -1,10 +1,3 @@
-<h3>第一章 話の作り方 イベント表</h3>
-
-
-<div class="entry-body-top"></div>
-
-<div class="entry-body">
-<div class="entry-body-text">
 <p>system<br />
 話の作り方<br />
 まずシステムにキーワードを入れて決めます。<br />
