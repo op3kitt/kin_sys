@@ -56,7 +56,7 @@
 
 
 
-<p><a href="image/characterevent.png"><img alt="Characterevent" title="Characterevent" src=image/characterevent.png" width="164" height="42" border="0" /></a></p>
+<p><a href="image/characterevent.png"><img alt="Characterevent" title="Characterevent" src="image/characterevent.png" width="164" height="42" border="0" /></a></p>
 
 <p><a href="files/character-event.pdf">「character-event.pdf」をダウンロード</a></p>
 
