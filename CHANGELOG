@@ -6,4 +6,8 @@
 ### (will be) Deprecated
 - 電子書籍向け書式情報の削除
 
-[Unreleased]: https://github.com/op3kitt/kin_sys/CHANGELOG.md
+## [v1.0.0]
+ - 金色老師作成のオリジナル
+
+[Unreleased]: https://github.com/op3kitt/kin_sys/blob/master/CHANGELOG
+[v1.0.0]: https://github.com/op3kitt/kin_sys/blob/v1.0.0/CHANGELOG
